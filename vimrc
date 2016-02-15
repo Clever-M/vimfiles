@@ -141,7 +141,7 @@ set nowritebackup
 set noswapfile
 
 "NERDTree Toggle using \][ keymap
-noremap <Leader>][ :NERDTreeToggle<CR>
+noremap ]] :NERDTreeToggle<CR>
 let g:NERDTreeChDirMode=2 "This changes current dir, so sync CommandT to look the same path as NERDTree is.
 
 " NERDTree find current buffer on tree
