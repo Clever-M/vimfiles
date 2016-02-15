@@ -28,6 +28,7 @@ Plugin 'pangloss/vim-javascript'
 Plugin 'briancollins/vim-jst'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'tpope/vim-ragtag.git'
+Plugin 'slim-template/vim-slim.git'
 
 " ------------------------------------------
 " All of your Plugins must be added before the following line
