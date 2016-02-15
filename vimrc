@@ -184,3 +184,7 @@ endif
 "let g:ctrlp_custom_ignore = '|DS_Store\|git'
 
 colorscheme railscasts2
+
+set columns=80
+highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+match OverLength /\%81v.\+/
