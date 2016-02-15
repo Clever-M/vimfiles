@@ -29,8 +29,6 @@ Plugin 'briancollins/vim-jst'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'tpope/vim-ragtag.git'
 
-Plugin 'Pychimp/vim-luna'
-
 " ------------------------------------------
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -185,4 +183,4 @@ endif
 " CtrlP ignore
 "let g:ctrlp_custom_ignore = '|DS_Store\|git'
 
-colorscheme luna-term " Set color scheme
+colorscheme railscasts2
