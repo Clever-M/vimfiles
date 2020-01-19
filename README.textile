@@ -33,7 +33,7 @@ h2. Instalação
 
 Além de baixar o projeto para o diretório .vim, é necessário baixar os submodulos. E, ainda, tem um passo adicional para o plugin command-t
 <pre><code>cd ~
-git clone https://github.com/acdesouza/vimfiles.git .vim
+git clone https://github.com/fabiolnm/vimfiles.git .vim
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 echo "source ~/.vim/vimrc" > ~/.vimrc
 echo "source ~/.vim/gvimrc" > ~/.gvimrc
